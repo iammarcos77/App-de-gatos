@@ -1,0 +1,42 @@
+h2{
+    color: rgb(1, 165, 165);
+    font-size: 50px;
+    font-family: 'Tangerine', cursive;
+}
+
+.lista-de-gatos{
+    color: rgba(6, 238, 255, 0.974);
+}
+main{
+    position: relative;
+    position: inherit;
+}
+
+h3{
+    font-size: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+p {
+    font-size: 20px;
+}
+
+ul {
+    font-size: 20px;
+}
+
+img{
+    border-width: 5px;
+    border-color: rgb(1, 255, 225);
+    border-style: solid;
+    border-radius: 50px;
+    box-shadow: 5px 5px 0px #00e1ff;
+}
+
+body{
+    background-color: #186c7f;
+}
+
+body{
+    text-align: center;
+}
